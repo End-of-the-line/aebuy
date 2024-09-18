@@ -1,0 +1,8 @@
+rootProject.name = 'backend'
+include 'common'
+include 'member-context'
+include 'order-context'
+include 'product-context'
+include 'payment-context'
+include 'inventory-context'
+
